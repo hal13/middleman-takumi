@@ -20,3 +20,9 @@ gem 'bourbon'
 gem 'neat'
 gem 'bitters'
 gem "refills", require: false
+
+# Bootstrap
+gem 'bootstrap-sass', '~> 3.3.5'
+
+# JQuery For Middleman
+gem 'middleman-jquery'
