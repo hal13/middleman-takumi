@@ -17,13 +17,14 @@ gem 'middleman-compass', '>= 4.0.0'
 gem 'middleman', '>= 4.0.0'
 gem 'middleman-livereload'
 gem 'therubyracer'
-gem 'bourbon'
-gem 'neat'
-gem 'bitters'
-gem "refills", require: false
+gem 'coffee-script'
+# gem 'bourbon'
+# gem 'neat'
+# gem 'bitters'
+# gem "refills", require: false
 
 # Bootstrap
-gem 'bootstrap-sass', '~> 3.3.5'
+# gem 'bootstrap-sass', '~> 3.3.5'
 
 # JQuery For Middleman
 gem 'middleman-jquery'
